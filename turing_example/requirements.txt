@@ -1,0 +1,13 @@
+wandb
+click
+jupytext
+torch
+onnx
+onnxscript
+onnxruntime
+nbconvert
+ipykernel
+matplotlib
+torchvision
+
+

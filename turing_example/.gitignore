@@ -1,0 +1,7 @@
+venv/
+wandb/
+data/
+*.pth
+*.onnx
+*.out
+
